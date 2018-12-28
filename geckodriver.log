@@ -1,0 +1,619 @@
+1545309224983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.5LefJ3CiPOs9"
+1545309225952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545309225952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545309227759	Marionette	INFO	Listening on port 56409
+1545309227854	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1545309510360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.Ur8hRfUPXUr8"
+1545309511194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545309511194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545309512976	Marionette	INFO	Listening on port 57159
+1545309513050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+1545311332556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.fTlvgL62VRYK"
+1545311333295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545311333296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545311334857	Marionette	INFO	Listening on port 64237
+1545311334928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+1545313281516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.MO9QM0TIpch9"
+1545313282172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545313282173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545313283723	Marionette	INFO	Listening on port 51974
+1545313283792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+1545319171630	Marionette	INFO	Stopped listening on port 51974
+1545319180027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.iWq8ahrk5Tnv"
+1545319180750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545319180751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545319182667	Marionette	INFO	Listening on port 61016
+1545319182760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2282, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1545319753774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.cMj9rlZPoBKm"
+1545319754884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545319754884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545319757176	Marionette	INFO	Listening on port 64012
+1545319757232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspassed.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspassed.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspassed.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspassed.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspassed.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/js/switcher.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/NewAdvsearch.aspx/, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+1545323532190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.cl27LACKjeGI"
+1545323533182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545323533183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545323535170	Marionette	INFO	Listening on port 64512
+1545323535299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: TypeError: document.body is null
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+1545323676875	Marionette	INFO	Stopped listening on port 64512
+1545323717460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.xCcVt3XgKJhn"
+1545323718488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545323718488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545323721434	Marionette	INFO	Listening on port 65484
+1545323721508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billsassented.aspx, line 20: TypeError: $(...).flexslider is not a function
+1545343388399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.LcizVcLgbrnj"
+1545343389290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545343389290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545343391224	Marionette	INFO	Listening on port 60618
+1545343391259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1545343482528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.8FlIuDP4ZF5H"
+1545343483307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545343483307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545343484897	Marionette	INFO	Listening on port 60768
+1545343484977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1545343603578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q4/8509v6397nb_m2l06_dl51480000gn/T/rust_mozprofile.wMXPBcq87UJZ"
+1545343604290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545343604290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545343606121	Marionette	INFO	Listening on port 60946
+1545343606148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 20: TypeError: $(...).flexslider is not a function
+JavaScript error: http://164.100.47.194/Loksabha/Legislation/billspending.aspx, line 1: ReferenceError: aspnetForm is not defined
